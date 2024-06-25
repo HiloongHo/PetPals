@@ -1,0 +1,35 @@
+{
+    "name": "pet_pals",
+    "short_name": "pet_pals",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "PetPals is a social dating app designed specifically for pet lovers. It aims to help pet owners find like-minded friends, share the joy of raising pets, and participate in various pet-related activities and discussions. Whether you are a cat lover, a dog owner, or a keen bird or fish farmer, PetPals is the ideal community for you and your pets.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
