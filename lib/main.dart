@@ -19,6 +19,7 @@ class MyApp extends StatelessWidget { // MyApp类，继承自StatelessWidget
         useMaterial3: true,               // 使用Material3主题
       ),
 
+
       home: const StartScreen1(),              // 设置应用程序的初始页面为StartScreen1
     );
   }
